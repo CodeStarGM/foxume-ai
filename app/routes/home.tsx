@@ -85,18 +85,6 @@ export default function Home() {
               {!loadingResumes &&
                 resumes.map((resume) => (
                   <ResumeCard key={resume.id} resume={resume} />
-                ))}{" "}
-              {!loadingResumes &&
-                resumes.map((resume) => (
-                  <ResumeCard key={resume.id} resume={resume} />
-                ))}{" "}
-              {!loadingResumes &&
-                resumes.map((resume) => (
-                  <ResumeCard key={resume.id} resume={resume} />
-                ))}{" "}
-              {!loadingResumes &&
-                resumes.map((resume) => (
-                  <ResumeCard key={resume.id} resume={resume} />
                 ))}
             </div>
 
