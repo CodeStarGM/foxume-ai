@@ -32,3 +32,14 @@ After uploading, users see a detailed score, strengths, and improvement tips:
 1. Go to the **Upload Resume** page
 2. Select your resume file and click **Analyze**
 3. Check your **Resume Overview** page for your score and tips
+
+## 🛠 Tech Stack
+
+This app is built with modern frontend technologies and AI integration:
+
+- **React.js** – UI library for building interactive user interfaces
+- **Vite** – Fast development and build tool for modern frontend apps
+- **React Router v7** – Client-side routing for multi-page experience
+- **Tailwind CSS** – Utility-first CSS framework for rapid styling
+- **TypeScript** – Typed JavaScript for safer and scalable code
+- **AI for Resume Analysis** – Powered by Claude (`claude-sonnet-4`) for intelligent resume scoring and insights
